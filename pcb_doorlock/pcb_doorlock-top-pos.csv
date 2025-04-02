@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"BZ1","Buzzer","Buzzer_12x9.5RM7.6",134.205000,-96.845000,0.000000,top
+"K1","Fujitsu_FTR-LYCA005x","Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical",169.300000,-86.250000,0.000000,top
+"M1","Motor_Servo","PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left",110.905000,-63.360000,0.000000,top
+"U1","Olimex_MOD-WIFI-ESP8266-DEV","Olimex_MOD-WIFI-ESP8266-DEV",144.955000,-63.145000,0.000000,top
